@@ -1,0 +1,21 @@
+{
+    "pincodes": [
+        "700019",
+        "700006",
+        "700157",
+        "700027",
+        "700054"
+    ],
+    "districts": {
+            "West Bengal": [
+                "Kolkata",
+                "North 24 Parganas"
+            ],
+            "Tamil Nadu": [
+                "Chennai"
+            ],
+            "Delhi": [
+                "New Delhi"
+            ]
+    }
+}
